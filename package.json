@@ -1,0 +1,29 @@
+{
+  "name": "react-js-buy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.34",
+    "@emotion/css": "^11.0.0",
+    "@emotion/react": "^11.1.2",
+    "@emotion/styled": "^10.0.27",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "shopify-buy": "^1.2.0",
+    "three": "^0.125.2",
+    "three-orbitcontrols": "^2.110.3",
+    "three-tween": "^1.0.0",
+    "threejs-fbxloader": "0.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
